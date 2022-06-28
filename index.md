@@ -4,14 +4,15 @@ author_list: <span class="nowrap"> Agrim Gupta<sup>1</sup>, </span> <span class=
 affiliations: <sup>1</sup> Stanford University, <sup>2</sup> Salesforce AI
 mathjax: true
 ---
-
 <!-- ![MaskViT model diagram](resources/model.png) -->
-<video class="model_diagram" playsinline autoplay muted loop onloadstart="this.playbackRate = 1;">
-		  <source src="resources/model_sfri.mp4" type='video/mp4'>
-		  <source src="resources/model.mp4" type='video/mp4'>
-		  <source src="resources/model.webm" type='video/webm'>
-		  MaskViT model diagram (your browser couldn't load the video).
-</video>	
+<div class="diagram_container"> 
+	<video class="model_diagram" playsinline autoplay muted loop onloadstart="this.playbackRate = 1;">
+			  <source src="resources/model_sfri.mp4" type='video/mp4'>
+			  <source src="resources/model.mp4" type='video/mp4'>
+			  <source src="resources/model.webm" type='video/webm'>
+			  MaskViT model diagram (your browser couldn't load the video).
+	</video>	
+</div>
 
 
 ## Abstract
